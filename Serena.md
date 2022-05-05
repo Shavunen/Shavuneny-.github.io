@@ -7,7 +7,7 @@
 
 ## Why did I choose computer science?
 
-I chose computer science as a major because of my interest in computers and technology in high school. I first realized my interest in CS my senior year of high school, when I took my first computing course. 
+I chose computer science as a major because of my interest in computers and technology. I first realized this interest my senior year of high school, when I took my first programming course. 
 
 
 ## My extracurricular activities and interests 
